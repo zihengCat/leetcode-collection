@@ -8,7 +8,7 @@ LeetCode 题解。
 
 ## String
 
-- [1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)
+- [LeetCode 1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)
 - ...
 
 ## Linked List
