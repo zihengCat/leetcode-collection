@@ -2,6 +2,8 @@
 #include <limits>
 #include <cctype>
 
+#define NOT_EXIST (-1)
+
 using namespace std;
 
 /**
@@ -12,7 +14,7 @@ class SecondLargestDigitInAString {
 public:
     int secondHighest(string s) {
         if (s.length() == 0) {
-            return -1;
+            return NOT_EXIST;
         }
         int largestNum = -1;
         int secondLargestNum = INT32_MIN;
@@ -27,7 +29,7 @@ public:
                 }
             }
         }
-        return secondLargestNum == INT32_MIN ? -1 : secondLargestNum;
+        return secondLargestNum == INT32_MIN ? NOT_EXIST : secondLargestNum;
     }
 };
 
