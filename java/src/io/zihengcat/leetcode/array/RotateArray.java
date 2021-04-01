@@ -1,5 +1,6 @@
 package io.zihengcat.leetcode.array;
 
+import java.util.Deque;
 import java.util.LinkedList;
 
 /**
@@ -33,7 +34,7 @@ public class RotateArray {
     }
     private void rotateWithDeque(int[] nums, int k) {
         k = k % nums.length;
-        LinkedList<Integer> aDeque = new LinkedList<>();
+        Deque<Integer> aDeque = new LinkedList<>();
         for (int i = 0; i < nums.length; i++) {
             aDeque.addLast(nums[i]);
         }
@@ -41,7 +42,7 @@ public class RotateArray {
             aDeque.addFirst(aDeque.pollLast());
         }
         for (int i = 0; i < nums.length; i++) {
-            nums[i] = aDeque.get(i);
+            nums[i] = aDeque.pollFirst();
         }
     }
 }
