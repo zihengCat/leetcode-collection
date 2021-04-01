@@ -4,7 +4,8 @@ LeetCode 题解。
 
 ## Array
 
-...
+-  [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- ...
 
 ## String
 
