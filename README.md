@@ -4,7 +4,8 @@ LeetCode 题解。
 
 ## Array
 
--  [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [LeetCode 1812. Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)
 - ...
 
 ## String
