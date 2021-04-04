@@ -5,6 +5,7 @@ LeetCode 题解。
 ## Array
 
 - [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [LeetCode 1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
 - [LeetCode 1812. Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)
 - ...
 
