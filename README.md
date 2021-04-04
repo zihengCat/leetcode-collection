@@ -5,6 +5,7 @@ LeetCode 题解。
 ## Array
 
 - [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [LeetCode 1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [LeetCode 1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
 - [LeetCode 1812. Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)
 - ...
@@ -22,7 +23,7 @@ LeetCode 题解。
 
 ## Stack
 
-...
+- ...
 
 ## Queue
 
@@ -31,7 +32,7 @@ LeetCode 题解。
 
 ## Heap
 
-...
+- ...
 
 ## Hash Table
 
@@ -40,11 +41,11 @@ LeetCode 题解。
 
 ## Tree
 
-...
+- ...
 
 ## Graph
 
-...
+- ...
 
 ## Bit Manipulation
 
@@ -53,22 +54,22 @@ LeetCode 题解。
 
 ## Greedy
 
-...
+- ...
 
 ## Divide and Conquer
 
-...
+- ...
 
 ## Backtracking
 
-...
+- ...
 
 ## Search / DFS / BFS
 
-...
+- ...
 
 ## Dynamic Programming
 
-...
+- ...
 
 <!-- EOF -->
