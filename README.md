@@ -37,6 +37,7 @@ LeetCode 题解。
 
 ## Hash Table
 
+- [LeetCode 1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 - [LeetCode 1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)
 - ...
 
