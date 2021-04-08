@@ -13,6 +13,7 @@ LeetCode 题解。
 
 ## String
 
+- [LeetCode 1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
 - [LeetCode 1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)
 - [LeetCode 1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
 - ...
@@ -31,14 +32,14 @@ LeetCode 题解。
 - [LeetCode 622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 - ...
 
-## Heap
-
-- ...
-
 ## Hash Table
 
 - [LeetCode 1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 - [LeetCode 1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)
+- ...
+
+## Heap
+
 - ...
 
 ## Tree
