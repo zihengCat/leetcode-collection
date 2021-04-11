@@ -31,6 +31,7 @@ LeetCode 题解。
 ## Queue
 
 - [LeetCode 622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+- [LeetCode 1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 - ...
 
 ## Hash Table
