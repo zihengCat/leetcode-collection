@@ -55,7 +55,9 @@ LeetCode 题解。
 
 ## Bit Manipulation
 
+- [LeetCode 1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 - [LeetCode 1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
+
 - ...
 
 ## Greedy
