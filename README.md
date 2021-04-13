@@ -57,7 +57,6 @@ LeetCode 题解。
 
 - [LeetCode 1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 - [LeetCode 1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
-
 - ...
 
 ## Greedy
@@ -78,6 +77,12 @@ LeetCode 题解。
 
 ## Dynamic Programming
 
+- ...
+
+## Others
+
+- [LeetCode 1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
+- [LeetCode 1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)
 - ...
 
 <!-- EOF -->
