@@ -22,6 +22,7 @@ LeetCode 题解。
 ## Linked List
 
 - [LeetCode 234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [LeetCode 341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 - ...
 
 ## Stack
