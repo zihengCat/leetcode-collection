@@ -9,20 +9,20 @@ using namespace std;
 class RichestCustomerWealth {
 public:
     int maximumWealth(vector<vector<int> >& accounts) {
-        int maxValue = 0;
+        int max = 0;
         int vLen = accounts.size();
         int cLen = 0;
         for (int i = 0; i < vLen; i++) {
-            int currentValue = 0;
             cLen = accounts[i].size();
+            int val = 0;
             for (int j = 0; j < cLen; j++) {
-                currentValue += accounts[i][j];
+                val += accounts[i][j];
             }
-            if (currentValue > maxValue) {
-                maxValue = currentValue;
+            if (val > max) {
+                max = val;
             }
         }
-        return maxValue;
+        return max;
     }
 };
 
