@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from typing import List
 
 # LeetCode 1725. Number Of Rectangles That Can Form The Largest Square
@@ -8,11 +11,15 @@ class NumberOfRectanglesThatCanFormTheLargestSquare:
         cnt: int = 0
         for rec in rectangles:
             cLen: int = min(rec[0], rec[1])
-            if (cLen > maxLen):
+            if cLen > maxLen:
                 maxLen = cLen
                 cnt = 1
-            elif (cLen == maxLen):
+            elif cLen == maxLen:
                 cnt += 1
         return cnt
+
+
+if __name__ == "__main__":
+    pass
 
 # EOF

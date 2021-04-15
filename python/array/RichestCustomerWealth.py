@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from typing import List
 
 # LeetCode 1672. Richest Customer Wealth
@@ -9,8 +12,12 @@ class RichestCustomerWealth:
             val: int = 0
             for n in account:
                 val += n
-            if (val > maxVal):
+            if val > maxVal:
                 maxVal = val
         return maxVal
+
+
+if __name__ == "__main__":
+    pass
 
 # EOF
