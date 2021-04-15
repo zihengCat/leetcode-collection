@@ -4,7 +4,7 @@ package main
  * Definition for singly-linked list.
  */
 type ListNode struct {
-	Val int
+	Val  int
 	Next *ListNode
 }
 
@@ -17,11 +17,11 @@ func partition(head *ListNode, x int) *ListNode {
 		return head
 	}
 	var (
-		pLessHead ListNode = ListNode{Val: 0, Next: nil}
-		pGreaterHead ListNode = ListNode{Val: 0, Next: nil}
-		pLess *ListNode = &pLessHead
-		pGreater *ListNode = &pGreaterHead
-		pCurrent *ListNode = head
+		pLessHead    ListNode  = ListNode{Val: 0, Next: nil}
+		pGreaterHead ListNode  = ListNode{Val: 0, Next: nil}
+		pLess        *ListNode = &pLessHead
+		pGreater     *ListNode = &pGreaterHead
+		pCurrent     *ListNode = head
 	)
 	for pCurrent != nil {
 		if pCurrent.Val < x {
