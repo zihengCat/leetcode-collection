@@ -1,6 +1,6 @@
 # LeetCode Collections
 
-LeetCode 题解。
+LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 ## Array
 
