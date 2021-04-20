@@ -5,6 +5,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 ## Array
 
 - [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [LeetCode 1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - [LeetCode 1629. Slowest Key](https://leetcode.com/problems/slowest-key/)
 - [LeetCode 1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)
 - [LeetCode 1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
