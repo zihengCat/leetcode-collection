@@ -1,13 +1,12 @@
-# ----
+# Project related
+.vscode
+
 # Java 
-# ----
 
 # Compiled class file
 *.class
 
-# -----
 # C/C++
-# -----
 
 # Prerequisites
 *.d
@@ -63,4 +62,3 @@ Mkfile.old
 dkms.conf
 
 # EOF
-
