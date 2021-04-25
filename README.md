@@ -21,6 +21,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 ## String
 
+- [LeetCode 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [LeetCode 1592. Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)
 - [LeetCode 1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)
 - [LeetCode 1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
