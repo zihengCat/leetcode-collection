@@ -6,6 +6,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 - [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [LeetCode 1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
+- [LeetCode 1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [LeetCode 1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)
 - [LeetCode 1629. Slowest Key](https://leetcode.com/problems/slowest-key/)
 - [LeetCode 1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)
