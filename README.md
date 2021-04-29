@@ -97,6 +97,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 ## Others
 
+- [LeetCode 1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)
 - [LeetCode 1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 - [LeetCode 1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)
 - [LeetCode 1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)
