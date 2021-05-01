@@ -51,6 +51,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 ## Hash Table
 
+- [LeetCode 1507. Reformat Date](https://leetcode.com/problems/reformat-date/)
 - [LeetCode 1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 - [LeetCode 1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 - [LeetCode 1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)
