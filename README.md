@@ -42,6 +42,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 ## Stack
 
+- [LeetCode 1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
 - [LeetCode 1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 - ...
 
