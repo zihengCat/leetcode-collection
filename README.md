@@ -111,6 +111,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 ## Dynamic Programming
 
+- [LeetCode 583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 - ...
 
 ## Others
