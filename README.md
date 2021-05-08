@@ -26,6 +26,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 ## String
 
+- [**LeetCode 680. Valid Palindrome II**](https://leetcode.com/problems/valid-palindrome-ii/)
 - [LeetCode 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [LeetCode 1592. Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)
 - [LeetCode 1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)
