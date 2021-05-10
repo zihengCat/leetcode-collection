@@ -9,6 +9,9 @@ using namespace std;
 class MaximumProductOfTwoElementsInAnArray {
 public:
     int maxProduct(vector<int>& nums) {
+        if (nums.size() < 2) {
+            return 0;
+        }
         int firstNum = INT32_MIN;
         int secondNum = INT32_MIN;
         int n = nums.size();
