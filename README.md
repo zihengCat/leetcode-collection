@@ -90,6 +90,11 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
 - ...
 
+## Math
+
+- [**LeetCode 1518. Water Bottles**](https://leetcode.com/problems/water-bottles/)
+- ...
+
 ## Sliding Window
 
 - [**LeetCode 1423. Maximum Points You Can Obtain from Cards**](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
