@@ -65,6 +65,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 - [**LeetCode 167. Two Sum II - Input array is sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [**LeetCode 205. Isomorphic Strings**](https://leetcode.com/problems/isomorphic-strings/)
 - [LeetCode 219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+- [**LeetCode 290. Word Pattern**](https://leetcode.com/problems/word-pattern/)
 - [LeetCode 819. Most Common Word](https://leetcode.com/problems/most-common-word/)
 - [**LeetCode 1496. Path Crossing**](https://leetcode.com/problems/path-crossing/)
 - [LeetCode 1507. Reformat Date](https://leetcode.com/problems/reformat-date/)
