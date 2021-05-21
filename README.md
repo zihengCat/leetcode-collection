@@ -107,6 +107,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 ## Sort
 
 - [LeetCode 1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)
+- [LeetCode 1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - ...
 
 ## Search / DFS / BFS
