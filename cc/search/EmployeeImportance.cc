@@ -1,5 +1,6 @@
 #include <vector>
 #include <unordered_map>
+#include <queue>
 
 using namespace std;
 
@@ -21,9 +22,30 @@ class EmployeeImportance {
 public:
     int getImportance(vector<Employee*> employees, int id) {
         unordered_map<int, Employee*> hmap = buildMap(employees);
-        return dfs(hmap, id);
+        // return dfs(hmap, id);
+        return bfs(hmap, id);
     }
 private:
+    int bfs(unordered_map<int, Employee*>& hmap, int id) {
+        if (hmap.find(id) == hmap.end()) {
+            return 0;
+        }
+        int sum = 0;
+        Employee* e = hmap.find(id) -> second;
+        queue<Employee*> q;
+        Employee* c = nullptr;
+        q.push(e);
+        while (!q.empty()) {
+            c = q.front();
+            q.pop();
+            sum += c -> importance;
+            int n = c -> subordinates.size();
+            for (int i = 0; i < n; i++) {
+                q.push(hmap[c -> subordinates[i]]);
+            }
+        }
+        return sum;
+    }
     int dfs(unordered_map<int, Employee*>& hmap, int id) {
         if (hmap.find(id) == hmap.end()) {
             return 0;
