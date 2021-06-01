@@ -83,6 +83,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 ## Tree
 
+- [LeetCode 501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
 - ...
 
 ## Graph
