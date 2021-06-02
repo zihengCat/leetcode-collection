@@ -100,6 +100,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 ## Math
 
+- [LeetCode 453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
 - [**LeetCode 1518. Water Bottles**](https://leetcode.com/problems/water-bottles/)
 - ...
 
