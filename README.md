@@ -28,6 +28,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 ## String
 
+- [**LeetCode 557. Reverse Words in a String III**](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [**LeetCode 680. Valid Palindrome II**](https://leetcode.com/problems/valid-palindrome-ii/)
 - [**LeetCode 796. Rotate String**](https://leetcode.com/problems/rotate-string/)
 - [LeetCode 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
@@ -94,6 +95,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 
 ## Bit Manipulation
 
+- [LeetCode 1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
 - [LeetCode 1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 - [LeetCode 1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
 - [LeetCode 1869. Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)
