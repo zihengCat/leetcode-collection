@@ -110,6 +110,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 ## Sliding Window
 
 - [**LeetCode 1423. Maximum Points You Can Obtain from Cards**](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+- [LeetCode 1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - ...
 
 ## Sort
