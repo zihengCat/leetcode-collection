@@ -39,6 +39,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)
 - [LeetCode 1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
 - [LeetCode 1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)
+- [LeetCode 1880. Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)
 - ...
 
 ## Linked List
