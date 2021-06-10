@@ -106,6 +106,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 ## Math
 
 - [LeetCode 453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
+- [LeetCode 1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
 - [**LeetCode 1518. Water Bottles**](https://leetcode.com/problems/water-bottles/)
 - ...
 
