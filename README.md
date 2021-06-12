@@ -108,6 +108,7 @@ LeetCode 题解：C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
 - [LeetCode 1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
 - [**LeetCode 1518. Water Bottles**](https://leetcode.com/problems/water-bottles/)
+- [LeetCode 1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - ...
 
 ## Sliding Window
