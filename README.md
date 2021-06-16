@@ -5,6 +5,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 ## Array
 
 - [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [LeetCode 1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
 - [LeetCode 1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
 - [**LeetCode 1470. Shuffle the Array**](https://leetcode.com/problems/shuffle-the-array/)
 - [LeetCode 1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
