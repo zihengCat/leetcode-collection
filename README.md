@@ -98,6 +98,11 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 - ...
 
+## BitMap
+
+- [LeetCode 1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
+- ...
+
 ## Bit Manipulation
 
 - [LeetCode 1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)

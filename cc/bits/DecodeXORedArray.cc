@@ -7,7 +7,7 @@ using namespace std;
  * https://leetcode.com/problems/decode-xored-array/
  */
 class DecodeXORedArray {
-public: 
+public:
     vector<int> decode(vector<int>& encoded, int first) {
         if (encoded.size() == 0) {
             return encoded;
@@ -23,3 +23,4 @@ public:
 };
 
 /* EOF */
+
