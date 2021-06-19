@@ -130,6 +130,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 ## Sort
 
 - [LeetCode 1051. Height Checker](https://leetcode.com/problems/height-checker/)
+- [LeetCode 1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - [LeetCode 1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)
 - [LeetCode 1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - ...
