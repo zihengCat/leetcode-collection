@@ -56,6 +56,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 ## Stack
 
 - [LeetCode 1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+- [LeetCode 1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
 - [LeetCode 1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [LeetCode 1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 - ...
