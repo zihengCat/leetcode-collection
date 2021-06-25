@@ -77,6 +77,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [**LeetCode 290. Word Pattern**](https://leetcode.com/problems/word-pattern/)
 - [LeetCode 609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
 - [LeetCode 819. Most Common Word](https://leetcode.com/problems/most-common-word/)
+- [LeetCode 1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
 - [**LeetCode 1496. Path Crossing**](https://leetcode.com/problems/path-crossing/)
 - [LeetCode 1507. Reformat Date](https://leetcode.com/problems/reformat-date/)
 - [LeetCode 1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
