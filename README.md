@@ -143,7 +143,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
 - ...
 
-## Search / DFS / BFS
+## Search / Depth-first Search / Breadth-first Search
 
 - [LeetCode 374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [LeetCode 463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
