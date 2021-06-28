@@ -71,6 +71,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Hash Table
 
+- [LeetCode 41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [**LeetCode 167. Two Sum II - Input array is sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [**LeetCode 205. Isomorphic Strings**](https://leetcode.com/problems/isomorphic-strings/)
 - [LeetCode 219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
