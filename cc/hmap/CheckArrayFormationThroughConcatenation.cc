@@ -12,14 +12,16 @@ public:
     bool canFormArray(vector<int>& arr, vector<vector<int>>& pieces) {
         unordered_map<int, vector<int>* > hmap;
         unordered_map<int, vector<int>* >::iterator iter;
-
-        // Build a hash table =>
-        // [nA]: [nA, nB, nC, ...nN]
+        // Build a Hash Table =>
+        // {
+        //   [nA]: [nA, nB, nC, ...nN],
+        //   ...
+        // }
         int n = pieces.size();
         for (int i = 0; i < n; i++) {
             hmap[pieces[i][0]] = &pieces[i];
         }
-
+        // forEach check
         n = arr.size();
         for (int i = 0; i < n; /* ... */) {
             iter = hmap.find(arr[i]);
