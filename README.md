@@ -85,6 +85,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [**LeetCode 1496. Path Crossing**](https://leetcode.com/problems/path-crossing/)
 - [LeetCode 1507. Reformat Date](https://leetcode.com/problems/reformat-date/)
 - [LeetCode 1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
+- [LeetCode 1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)
 - [LeetCode 1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 - [LeetCode 1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)
 - [LeetCode 1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
