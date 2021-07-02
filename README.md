@@ -130,6 +130,11 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - ...
 
+## Prefix Sum
+
+- [**LeetCode 724. Find Pivot Index**](https://leetcode.com/problems/find-pivot-index/)
+- ...
+
 ## Sliding Window
 
 - [LeetCode 485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
