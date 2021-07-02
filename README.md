@@ -79,6 +79,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - [LeetCode 496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 - [LeetCode 609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
+- [LeetCode 697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
 - [LeetCode 804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [LeetCode 819. Most Common Word](https://leetcode.com/problems/most-common-word/)
 - [LeetCode 1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)

@@ -10,32 +10,33 @@ using namespace std;
 class DegreeOfAnArray {
 public:
     int findShortestSubArray(vector<int>& nums) {
-        int vLen = nums.size();
-        unordered_map<int, int> hmap;
-        // Add to Hash Table
-        for (int i = 0; i < vLen; i++) {
-            hmap[nums[i]]++;
+        // Build a HashTable => { num: orderedIndexArray[...] }
+        // - [n]: {...iA...iB...iC...}
+        // ...
+        unordered_map<int, vector<int>> hmap;
+        int n = nums.size();
+        for (int i = 0; i < n; i++) {
+            hmap[nums[i]].push_back(i);
         }
-        // Find maximum frequency element
-        int maxFrequency = INT32_MIN;
-        for (unordered_map<int, int>::iterator iter = hmap.begin();
+        int r = 0;
+        int maxCnt = 0;
+        for (unordered_map<int, vector<int>>::iterator iter = hmap.begin();
             iter != hmap.end();
             iter++
         ) {
-            if (iter -> second > maxFrequency) {
-                maxFrequency = iter -> second;
+            vector<int> *c = &(iter -> second);
+            int cnt = c -> size();
+            if (cnt > maxCnt) {
+                maxCnt = cnt;
+                r = c -> back() - c -> front() + 1;
+            } else if (cnt == maxCnt) {
+                int cLen = c -> back() - c -> front() + 1;
+                if (cLen < r) {
+                    r = cLen;
+                }
             }
         }
-        vector<int> maxElements;
-        for (unordered_map<int, int>::iterator iter = hmap.begin();
-            iter != hmap.end();
-            iter++
-        ) {
-            if (iter -> second == maxFrequency) {
-                maxElements.push_back(iter -> first);
-            }
-        }
-        // Find smallest possible length of a contiguous subarray
+        return r;
     }
 };
 
@@ -45,3 +46,4 @@ int main(int argc, char const *argv[]) {
 }
 
 /* EOF */
+
