@@ -129,6 +129,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
 - [**LeetCode 1518. Water Bottles**](https://leetcode.com/problems/water-bottles/)
 - [LeetCode 1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+- [LeetCode 1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - ...
 
 ## Prefix Sum
