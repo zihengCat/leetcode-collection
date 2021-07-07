@@ -34,6 +34,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## String
 
+- [LeetCode 551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
 - [**LeetCode 557. Reverse Words in a String III**](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [**LeetCode 680. Valid Palindrome II**](https://leetcode.com/problems/valid-palindrome-ii/)
 - [**LeetCode 796. Rotate String**](https://leetcode.com/problems/rotate-string/)
