@@ -173,6 +173,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 ## Greedy
 
 - [**LeetCode 455. Assign Cookies**](https://leetcode.com/problems/assign-cookies/)
+- [LeetCode 806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)
 - [LeetCode 1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 - [LeetCode 1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)
 - [LeetCode 1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
