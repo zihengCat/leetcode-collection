@@ -152,6 +152,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 ## Sort
 
 - [LeetCode 506. Relative Ranks](https://leetcode.com/problems/relative-ranks/)
+- [LeetCode 628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [LeetCode 944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 - [LeetCode 1051. Height Checker](https://leetcode.com/problems/height-checker/)
 - [LeetCode 1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
