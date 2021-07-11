@@ -140,6 +140,11 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [**LeetCode 724. Find Pivot Index**](https://leetcode.com/problems/find-pivot-index/)
 - ...
 
+## Two Pointer
+
+- [LeetCode 942. DI String Match](https://leetcode.com/problems/di-string-match/)
+- ...
+
 ## Sliding Window
 
 - [LeetCode 485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
