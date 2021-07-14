@@ -30,6 +30,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
 - [LeetCode 1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
 - [LeetCode 1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
+- [LeetCode 1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 - ...
 
 ## String
