@@ -122,6 +122,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Bit Manipulation
 
+- [LeetCode 1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 - [LeetCode 1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
 - [LeetCode 1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 - [LeetCode 1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
