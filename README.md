@@ -83,6 +83,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [**LeetCode 290. Word Pattern**](https://leetcode.com/problems/word-pattern/)
 - [LeetCode 409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - [LeetCode 496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+- [LeetCode 594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
 - [LeetCode 609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
 - [LeetCode 697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
 - [LeetCode 804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
