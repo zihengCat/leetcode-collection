@@ -194,11 +194,12 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
 - ...
 
-## Divide and Conquer
+## Backtracking
 
+- [LeetCode 357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
 - ...
 
-## Backtracking
+## Divide and Conquer
 
 - ...
 
