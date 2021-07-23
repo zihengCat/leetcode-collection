@@ -125,6 +125,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Bit Manipulation
 
+- [LeetCode 477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
 - [LeetCode 1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 - [LeetCode 1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
 - [LeetCode 1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
