@@ -195,6 +195,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 - [LeetCode 1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)
 - [LeetCode 1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
+- [LeetCode 1946. Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/)
 - ...
 
 ## Backtracking
