@@ -50,6 +50,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
 - [LeetCode 1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)
 - [LeetCode 1880. Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)
+- [LeetCode 1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)
 - ...
 
 ## Linked List
