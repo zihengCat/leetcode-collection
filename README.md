@@ -138,6 +138,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 - [LeetCode 1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
 - [LeetCode 1869. Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)
+- [LeetCode 1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)
 - ...
 
 ## Math
