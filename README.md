@@ -217,6 +217,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 ## Dynamic Programming
 
 - [LeetCode 583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
+- [LeetCode 1981. Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/)
 - ...
 
 ## Others
