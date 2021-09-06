@@ -31,6 +31,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
 - [LeetCode 1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 - [LeetCode 1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+- [LeetCode 1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)
 - ...
 
 ## String
