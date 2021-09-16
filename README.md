@@ -186,6 +186,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [LeetCode 1909. Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/)
 - [LeetCode 1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
+- [LeetCode 1985. Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)
 - ...
 
 ## Search / Depth-first Search / Breadth-first Search
