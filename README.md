@@ -152,6 +152,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - [LeetCode 1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [LeetCode 1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)
+- [LeetCode 1952. Three Divisors](https://leetcode.com/problems/three-divisors/)
 - [LeetCode 1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
 - ...
 
