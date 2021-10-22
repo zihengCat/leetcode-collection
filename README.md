@@ -114,6 +114,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1941. Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)
 - [LeetCode 2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 - [LeetCode 2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/)
+- [LeetCode 2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/)
 - ...
 
 ## Heap
