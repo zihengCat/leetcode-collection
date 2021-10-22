@@ -45,6 +45,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 - [LeetCode 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)
 - [LeetCode 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
+- [LeetCode 1576. Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)
 - [LeetCode 1592. Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)
 - [LeetCode 1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)
 - [LeetCode 1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
