@@ -187,6 +187,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Sort
 
+- [LeetCode 75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [LeetCode 506. Relative Ranks](https://leetcode.com/problems/relative-ranks/)
 - [LeetCode 628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [LeetCode 944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
