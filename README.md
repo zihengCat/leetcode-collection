@@ -210,6 +210,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
 - [LeetCode 821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
 - [LeetCode 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- [**LeetCode 994. Rotting Oranges**](https://leetcode.com/problems/rotting-oranges/)
 - [**LeetCode 1992. Find All Groups of Farmland**](https://leetcode.com/problems/find-all-groups-of-farmland/)
 - ...
 
