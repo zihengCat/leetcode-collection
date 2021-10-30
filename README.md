@@ -115,6 +115,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 - [LeetCode 2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/)
 - [LeetCode 2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/)
+- [LeetCode 2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)
 - ...
 
 ## Heap
