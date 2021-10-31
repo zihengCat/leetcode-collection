@@ -33,6 +33,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 - [LeetCode 1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)
 - [LeetCode 2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
+- [LeetCode 2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)
 - ...
 
 ## String
