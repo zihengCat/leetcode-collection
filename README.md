@@ -106,6 +106,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
 - [**LeetCode 1496. Path Crossing**](https://leetcode.com/problems/path-crossing/)
 - [LeetCode 1507. Reformat Date](https://leetcode.com/problems/reformat-date/)
+- [LeetCode 1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
 - [LeetCode 1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 - [LeetCode 1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)
 - [LeetCode 1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
