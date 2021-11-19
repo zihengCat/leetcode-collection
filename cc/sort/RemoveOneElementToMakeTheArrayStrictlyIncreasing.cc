@@ -1,6 +1,6 @@
 #include <vector>
 
-using namespce std;
+using namespace std;
 
 /**
  * LeetCode 1909. Remove One Element to Make the Array Strictly Increasing
