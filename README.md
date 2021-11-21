@@ -212,6 +212,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Search / Depth-first Search / Breadth-first Search
 
+- [LeetCode 278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [LeetCode 374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [LeetCode 463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 - [LeetCode 690. Employee Importance](https://leetcode.com/problems/employee-importance/)
