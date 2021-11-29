@@ -211,7 +211,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
 - ...
 
-## Search / Depth-first Search / Breadth-first Search
+## Binary Search / Depth-First Search / Breadth-First Search
 
 - [**LeetCode 35. Search Insert Position**](https://leetcode.com/problems/search-insert-position/)
 - [LeetCode 278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
