@@ -94,6 +94,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [**LeetCode 167. Two Sum II - Input array is sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [**LeetCode 205. Isomorphic Strings**](https://leetcode.com/problems/isomorphic-strings/)
+- [LeetCode 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [LeetCode 219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [**LeetCode 290. Word Pattern**](https://leetcode.com/problems/word-pattern/)
 - [LeetCode 409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
