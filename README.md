@@ -61,6 +61,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 - [LeetCode 2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 - [LeetCode 2042. Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)
+- [LeetCode 2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)
 - ...
 
 ## Linked List
