@@ -124,6 +124,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/)
 - [LeetCode 2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/)
 - [LeetCode 2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)
+- [LeetCode 2133. Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)
 - ...
 
 ## Heap
