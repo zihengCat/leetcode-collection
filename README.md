@@ -100,6 +100,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [LeetCode 219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [**LeetCode 290. Word Pattern**](https://leetcode.com/problems/word-pattern/)
+- [LeetCode 389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
 - [LeetCode 409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - [LeetCode 496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 - [LeetCode 594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
