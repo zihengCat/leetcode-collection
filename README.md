@@ -249,6 +249,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
 - [LeetCode 1946. Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/)
 - [LeetCode 2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/)
+- [LeetCode 2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
 - ...
 
 ## Backtracking
