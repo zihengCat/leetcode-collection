@@ -279,6 +279,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 - [LeetCode 1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)
 - [LeetCode 1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)
+- [LeetCode 2180. Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)
 - ...
 
 <!-- EOF -->
