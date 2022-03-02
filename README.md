@@ -192,6 +192,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [LeetCode 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [LeetCode 344. Reverse String](https://leetcode.com/problems/reverse-string/)
+- [LeetCode 392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [LeetCode 495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
 - [LeetCode 942. DI String Match](https://leetcode.com/problems/di-string-match/)
 - [LeetCode 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
