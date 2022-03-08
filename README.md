@@ -5,6 +5,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 ## Array
 
 - [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [LeetCode 485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [LeetCode 830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
 - [LeetCode 985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 - [LeetCode 1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
