@@ -39,6 +39,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
 - [LeetCode 2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)
 - [LeetCode 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)
+- [LeetCode 2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)
 - ...
 
 ## String
