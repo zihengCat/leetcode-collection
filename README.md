@@ -4,6 +4,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Array
 
+- [LeetCode 26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [LeetCode 27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [LeetCode 88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
