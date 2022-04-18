@@ -10,6 +10,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [LeetCode 485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [LeetCode 830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
+- [LeetCode 905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [LeetCode 941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/solution/)
 - [LeetCode 985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 - [LeetCode 1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
