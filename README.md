@@ -8,6 +8,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [LeetCode 88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [LeetCode 448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [LeetCode 485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [LeetCode 830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
 - [LeetCode 905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
