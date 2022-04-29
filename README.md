@@ -159,6 +159,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
 - [LeetCode 606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 - [**LeetCode 653. Two Sum IV - Input is a BST**](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+- [LeetCode 700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 - [**LeetCode 872. Leaf-Similar Trees**](https://leetcode.com/problems/leaf-similar-trees/)
 - [LeetCode 1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 - ...
