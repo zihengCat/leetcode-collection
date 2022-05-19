@@ -115,6 +115,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Hash Table
 
+- [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [LeetCode 41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [**LeetCode 167. Two Sum II - Input array is sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [LeetCode 169. Majority Element](https://leetcode.com/problems/majority-element/)
