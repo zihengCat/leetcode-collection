@@ -163,6 +163,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Tree
 
+- [LeetCode 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [**LeetCode 129. Sum Root to Leaf Numbers**](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 - [LeetCode 501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
 - [LeetCode 606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
