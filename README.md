@@ -89,6 +89,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [LeetCode 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [LeetCode 82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+- [LeetCode 83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [**LeetCode 86. Partition List**](https://leetcode.com/problems/partition-list/)
 - [LeetCode 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [**LeetCode 203. Remove Linked List Elements**](https://leetcode.com/problems/remove-linked-list-elements/)
