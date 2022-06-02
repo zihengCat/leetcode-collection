@@ -133,6 +133,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
 - [LeetCode 609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
 - [LeetCode 697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
+- [LeetCode 706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
 - [LeetCode 804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [LeetCode 819. Most Common Word](https://leetcode.com/problems/most-common-word/)
 - [LeetCode 1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
