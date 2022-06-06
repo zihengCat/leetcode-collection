@@ -308,6 +308,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [LeetCode 509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [LeetCode 583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
+- [LeetCode 746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [LeetCode 1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [LeetCode 1981. Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/)
 - ...
