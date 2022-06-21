@@ -158,6 +158,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 - [LeetCode 2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)
 - [LeetCode 2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
+- [LeetCode 2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
 - ...
 
 ## Heap
