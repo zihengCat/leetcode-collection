@@ -9,18 +9,19 @@ using namespace std;
 class FindPivotIndex {
 public:
     int pivotIndex(vector<int>& nums) {
-        int vSum = 0;
-        int vLen = nums.size();
-        for (int i = 0; i < vLen; i++) {
-            vSum += nums[i];
+        int aSum = 0;
+        int n = nums.size();
+        for (int i = 0; i < n; i++) {
+            aSum += nums[i];
         }
         int lSum = 0;
-        for (int i = 0; i < vLen; i++) {
-            if (lSum == vSum - lSum - nums[i]) {
+        for (int i = 0; i < n; i++) {
+            if (lSum == aSum - lSum - nums[i]) {
                 return i;
             }
             lSum += nums[i];
         }
+        // Not found
         return -1;
     }
 };
