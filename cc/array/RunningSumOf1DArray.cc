@@ -9,11 +9,11 @@ using namespace std;
 class RunningSumOf1DArray {
 public:
     vector<int> runningSum(vector<int>& nums) {
-        int sum = 0;
-        int vLen = nums.size();
-        for (int i = 0; i < vLen; i++) {
-            sum += nums[i];
-            nums[i] = sum;
+        int s = 0;
+        int n = nums.size();
+        for (int i = 0; i < n; i++) {
+            s += nums[i];
+            nums[i] = s;
         }
         return nums;
     }
