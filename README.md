@@ -160,6 +160,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 - [LeetCode 2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
 - [LeetCode 2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
+- [LeetCode 2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)
 - ...
 
 ## Heap
