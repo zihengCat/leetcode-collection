@@ -82,6 +82,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
 - [LeetCode 2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)
 - [LeetCode 2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)
+- [LeetCode 2299. Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)
 - ...
 
 ## Linked List
