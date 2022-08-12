@@ -137,6 +137,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
 - [LeetCode 804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [LeetCode 819. Most Common Word](https://leetcode.com/problems/most-common-word/)
+- [LeetCode 1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
 - [LeetCode 1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
 - [**LeetCode 1496. Path Crossing**](https://leetcode.com/problems/path-crossing/)
 - [LeetCode 1507. Reformat Date](https://leetcode.com/problems/reformat-date/)
