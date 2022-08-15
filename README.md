@@ -323,6 +323,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Others
 
+- [LeetCode 13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [**LeetCode 204. Count Primes**](https://leetcode.com/problems/count-primes/)
 - [LeetCode 258. Add Digits](https://leetcode.com/problems/add-digits/)
 - [LeetCode 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
