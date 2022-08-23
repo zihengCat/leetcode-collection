@@ -111,6 +111,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Queue
 
+- [LeetCode 234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [LeetCode 622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 - [LeetCode 1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 - [LeetCode 2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
