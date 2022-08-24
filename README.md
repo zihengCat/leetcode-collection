@@ -210,6 +210,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Math
 
+- [LeetCode 326. Power of Three](https://leetcode.com/problems/power-of-three/)
 - [LeetCode 441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 - [LeetCode 453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
 - [LeetCode 1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
