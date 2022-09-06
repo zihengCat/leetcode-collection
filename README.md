@@ -308,6 +308,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 ## Backtracking
 
 - [LeetCode 357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+- [LeetCode 1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
 - ...
 
 ## Divide and Conquer
