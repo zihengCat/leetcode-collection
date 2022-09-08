@@ -20,32 +20,32 @@ struct ListNode {
 class MergeTwoSortedLists {
 public:
     ListNode* mergeTwoLists(ListNode* listA, ListNode* listB) {
-        ListNode dummyHead = ListNode();
-        ListNode* p = &dummyHead;
+        ListNode dHead = ListNode();
+        ListNode* p = &dHead;
         ListNode* pA = listA;
         ListNode* pB = listB;
         while (pA != nullptr && pB != nullptr) {
             if (pA -> val < pB -> val) {
-                p -> next = new ListNode(pA -> val);
+                p -> next = pA;
                 p = p -> next;
                 pA = pA -> next;
             } else {
-                p -> next = new ListNode(pB -> val);
+                p -> next = pB;
                 p = p -> next;
                 pB = pB -> next;
             }
         }
         while (pA != nullptr) {
-            p -> next = new ListNode(pA -> val);
+            p -> next = pA;
             p = p -> next;
             pA = pA -> next;
         }
         while (pB != nullptr) {
-            p -> next = new ListNode(pB -> val);
+            p -> next = pB;
             p = p -> next;
             pB = pB -> next;
         }
-        return dummyHead.next;
+        return dHead.next;
     }
 };
 
