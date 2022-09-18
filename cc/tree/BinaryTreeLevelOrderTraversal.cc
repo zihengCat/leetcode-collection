@@ -29,12 +29,12 @@ public:
         queue<TreeNode*> q;
         q.push(root);
         while (!q.empty()) {
-            vector<int> vv;
             int qSize = q.size();
+            vector<int> t;
             for (int i = 0; i < qSize; i++) {
                 TreeNode* n = q.front();
                 q.pop();
-                vv.push_back(n -> val);
+                t.push_back(n -> val);
                 if (n -> left != nullptr) {
                     q.push(n -> left);
                 }
@@ -42,7 +42,7 @@ public:
                     q.push(n -> right);
                 }
             }
-            v.push_back(vv);
+            v.push_back(t);
         }
         return v;
     }
