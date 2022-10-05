@@ -109,6 +109,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
 - [LeetCode 1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [LeetCode 1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+- [LeetCode 2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 - ...
 
 ## Queue
