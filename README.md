@@ -48,6 +48,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)
 - [LeetCode 2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)
 - [LeetCode 2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)
+- [LeetCode 2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)
 - ...
 
 ## String
