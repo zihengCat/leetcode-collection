@@ -85,6 +85,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)
 - [LeetCode 2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)
 - [LeetCode 2299. Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)
+- [LeetCode 2446. Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)
 - ...
 
 ## Linked List
