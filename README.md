@@ -218,6 +218,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Math
 
+- [LeetCode 263. Ugly Number](https://leetcode.com/problems/ugly-number/)
 - [LeetCode 326. Power of Three](https://leetcode.com/problems/power-of-three/)
 - [LeetCode 441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 - [LeetCode 453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
