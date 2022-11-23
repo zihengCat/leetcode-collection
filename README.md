@@ -351,6 +351,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)
 - [LeetCode 2180. Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)
 - [LeetCode 2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)
+- [LeetCode 2475. Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/)
 - ...
 
 <!-- EOF -->
