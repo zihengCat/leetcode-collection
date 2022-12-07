@@ -170,6 +170,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
 - [LeetCode 2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
 - [LeetCode 2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)
+- [LeetCode 2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)
 - [LeetCode 2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
 - ...
 
