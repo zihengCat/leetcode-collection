@@ -172,6 +172,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)
 - [LeetCode 2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)
 - [LeetCode 2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
+- [LeetCode 2506. Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/)
 - ...
 
 ## Heap
