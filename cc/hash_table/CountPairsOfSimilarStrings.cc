@@ -11,7 +11,7 @@ using namespace std;
 class CountPairsOfSimilarStrings {
 public:
     int similarPairs(vector<string>& words) {
-        vector<unordered_set<char>> v;
+        vector<unordered_set<char> > v;
         for (int i = 0; i < words.size(); i++) {
             unordered_set<char> s;
             for (int j = 0; j < words[i].size(); j++) {
