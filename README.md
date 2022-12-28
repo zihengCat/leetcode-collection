@@ -86,6 +86,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)
 - [LeetCode 2299. Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)
 - [LeetCode 2446. Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)
+- [LeetCode 2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)
 - ...
 
 ## Linked List
