@@ -234,6 +234,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
 - [LeetCode 2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)
 - [LeetCode 2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)
+- [LeetCode 2427. Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)
 - [LeetCode 2455. Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)
 - ...
 
