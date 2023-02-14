@@ -50,9 +50,8 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)
 - [LeetCode 2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)
 - [LeetCode 2544. Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)
-
 - [LeetCode 2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
-
+- [LeetCode 2562. Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/)
 - ...
 
 ## String
@@ -91,7 +90,6 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2299. Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)
 - [LeetCode 2446. Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)
 - [LeetCode 2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)
-- [LeetCode 2562. Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/)
 - ...
 
 ## Linked List
