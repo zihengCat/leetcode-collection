@@ -14,6 +14,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [LeetCode 941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/solution/)
 - [LeetCode 985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
+- [LeetCode 989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [LeetCode 1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
 - [LeetCode 1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 - [LeetCode 1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
