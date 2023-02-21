@@ -53,6 +53,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2544. Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)
 - [LeetCode 2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
 - [LeetCode 2562. Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/)
+- [LeetCode 2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)
 - ...
 
 ## String
