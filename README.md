@@ -10,6 +10,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [LeetCode 448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [LeetCode 485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+- [LeetCode 540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [LeetCode 830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
 - [LeetCode 905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [LeetCode 941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/solution/)
