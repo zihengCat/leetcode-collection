@@ -242,6 +242,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)
 - [LeetCode 2427. Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)
 - [LeetCode 2455. Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)
+- [LeetCode 2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)
 - ...
 
 ## Prefix Sum
