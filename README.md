@@ -55,6 +55,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [LeetCode 2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
 - [LeetCode 2562. Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/)
 - [LeetCode 2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)
+- [LeetCode 2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/)
 - ...
 
 ## String
