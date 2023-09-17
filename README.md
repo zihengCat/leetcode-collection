@@ -216,7 +216,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 
 ## Bit Manipulation
 
-- [LeetCode 338. Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [**LeetCode 338. Counting Bits**](https://leetcode.com/problems/counting-bits/)
 - [LeetCode 461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 - [LeetCode 477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
 - [LeetCode 1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
