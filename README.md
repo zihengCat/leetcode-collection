@@ -140,6 +140,7 @@ LeetCode problem solution: C++ / Java / Python / Go / TypeScript / ...
 - [**LeetCode 205. Isomorphic Strings**](https://leetcode.com/problems/isomorphic-strings/)
 - [LeetCode 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [LeetCode 219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+- [LeetCode 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [**LeetCode 290. Word Pattern**](https://leetcode.com/problems/word-pattern/)
 - [LeetCode 350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [LeetCode 383. Ransom Note](https://leetcode.com/problems/ransom-note/)
