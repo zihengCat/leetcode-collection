@@ -4,7 +4,7 @@ using namespace std;
 
 /**
  * LeetCode 2980. Check if Bitwise OR Has Trailing Zeros
- * https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/description/
+ * https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/
  */
 class CheckIfBitwiseORHasTrailingZeros {
 public:
